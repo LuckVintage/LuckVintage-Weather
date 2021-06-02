@@ -28,3 +28,5 @@ Answer: There will be an update to the extension every couple of months or when 
 *Question: Does this extension track my usage and / or collect any of my personal data?
 
 Answer: No, this extension does not and will never track usage or collect any of your personal information.
+
+![chrome web store logo](https://cdn.luckvintage.net/media/chrome-web-store-logo.png)
