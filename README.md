@@ -1,4 +1,4 @@
-# LuckVintage-Weather
+# LuckVintage Weather
 The source code for the LuckVintage Weather extension published on the Chrome Web Store
 
 Provides easy access to the Weather in your local area.
