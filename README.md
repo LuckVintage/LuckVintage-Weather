@@ -7,7 +7,7 @@ Provides easy access to the Weather in your local area.
 
 Do you check the weather often? You can install this Chrome Extension and click on it to quickly view the weather in your local area and anywhere in the world.
 
-= Instructions for use = 
+# = Instructions for use = 
 
 Simply click on the LVTS icon when installed and you will be prompted with the weather for London, GB. Simply enter the place you wish to see the weather for and the details will be shown.
 
