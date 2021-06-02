@@ -1,0 +1,32 @@
+{
+  "name": "LVTS Weather",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Provides easy access to the Weather in your local area.",
+  "homepage_url": "https://luckvintage.net",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "background": {
+    "page": "src/bg/background.html",
+    "persistent": true
+  },
+  "browser_action": {
+    "default_icon": "icons/icon19.png",
+    "default_title": "Click to view your local weather forecast",
+    "default_popup": "src/browser_action/browser_action.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://luckvintage.net/*"
+      ],
+      "css": [
+        "src/inject/inject.css"
+      ]
+    }
+  ]
+}
